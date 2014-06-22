@@ -10,7 +10,7 @@ Uses descriptive activity names to name the activities in the data set
 Appropriately labels the data set with descriptive variable names. 
 Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
-## This R script is not a standalone project.  The following dataset must be downloaded first and the R script run in teh extracted working directory.
+## This R script is not a standalone project.  The following dataset must be downloaded first and the R script run in the extracted working directory.
 
 ### https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
