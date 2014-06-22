@@ -16,8 +16,9 @@ Creates a second, independent tidy data set with the average of each variable fo
 
 ### https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
+-----------------------------------------
+
 The dataset includes the following files:
-=========================================
 
 - 'README.txt'
 
