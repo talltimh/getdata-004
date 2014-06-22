@@ -1,4 +1,8 @@
-# IMPORTANT NOTE: This R script is not 
+# IMPORTANT NOTE: This R script is not a standalone script.
+
+# The following dataset must first be downloaded and extracted
+# https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+# Please run this script in the extracted directory in order for it to perform correctly.
 
 # CRITERIA:
 # Merges the training and the test sets to create one data set.
