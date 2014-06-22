@@ -1,5 +1,7 @@
 # Important, please read first.
 
+Please note that this R script may take a few minutes to complete.
+
 ## Project Criteria:
 
 You should create one R script called run_analysis.R that does the following. 
